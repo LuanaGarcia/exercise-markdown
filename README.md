@@ -1,6 +1,6 @@
 # MarkDown
 
-Este arquivo servervirá como base para o [MarkDown](https://github.com/LuanaGarcia/exercise-markdown/blob/master/markdown.md)
+Este arquivo servirá como base para o [MarkDown](https://github.com/LuanaGarcia/exercise-markdown/blob/master/markdown.md)
 
 ## Texto
 
@@ -63,6 +63,7 @@ escreve o codigo e ele formata em código
 ````
 Coloca o sinal de maior (>)
 > Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
+
 ````
 
 ## Link
@@ -80,7 +81,7 @@ Para clicar na palavra e ser encaminhado a um link
 
 [MarkDown](https://guides.github.com/features/mastering-markdown/)
 
-quando por o mouse em sima de "Tutorial de MarkDown" irá aoarecer "link do tutorial de MarkDown"
+Facilita colocar no meio do texto quando preciso
 ````
 ### Exemplo
 
