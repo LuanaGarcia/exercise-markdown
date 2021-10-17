@@ -17,9 +17,7 @@ Abacaxi na pizza?
 - [ ] Sim
 - [x] Não
 - [ ] Talvez
-
 ## Hobies
----
 - Filmes 
   - The Hunger Games (Trilogy)
   - Divergent (Trilogy)
@@ -32,9 +30,7 @@ Abacaxi na pizza?
   - Supergirl
   - Jessica Jones
   - Masterchef
-
 ## História engraçada
----
 Não consigo pensar em nenhum agora, mas se me lembrar de um, compartilharei com você ... Talvez.
 
 
